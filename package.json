@@ -1,0 +1,19 @@
+{
+  "name": "@regru/i-sticky",
+  "version": "2.2.6",
+  "description": "\"position: sticky\" jQuery plugin / polyfill.",
+  "main": "i-sticky.js",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/regru/i-sticky.git"
+  },
+  "author": "REG.RU LLC",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/regru/i-sticky/issues"
+  },
+  "homepage": "https://github.com/regru/i-sticky#readme"
+}
